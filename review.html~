@@ -17,15 +17,10 @@
   width: 20%;
   margin: .1em;
   color: white;
-  display: block;
 }
 
 #exercise2 a:hover {
-	background-color: black;
-	color: silver;
-	margin: .5em;
-	padding: .5em;
-	display: inline-block;
+
 }
 </style>
 </head>
